@@ -29,6 +29,7 @@ Veil is responsible for isolation, weak-signal incubation, evidence evaluation, 
 - [Architecture](docs/ARCHITECTURE.md)
 - [Interface contracts](docs/INTERFACE_CONTRACTS.md)
 - [Migration plan](docs/MIGRATION_PLAN.md)
+- [Legacy runtime audit](docs/LEGACY_RUNTIME_AUDIT.md)
 - [Threat model](THREAT_MODEL.md)
 
 ## Current implementation source
